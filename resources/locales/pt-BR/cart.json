@@ -1,0 +1,17 @@
+{
+  "cart": {
+      "update": {
+          "status_cancel_success"   : "O status do(a) {nome} - {documento}, foi cancelado(a).",
+          "status_cancel_error"     : "{nome} não pode ser atualizado(a), porque está cancelado(a).",
+          "status_billed_success"   : "O status do(a) {nome} - {documento}, foi faturado(a).",
+          "status_billed_error"     : "{nome} não pode ser atualizado(a), porque está faturado(a).",
+          "success"                 : "{nome} - {documento}, foi atualizado(a) com sucesso."
+      },
+      "delete": {
+          "success"   : "A(s) compra(s) - {documento}, removido(s) com sucesso."
+      },
+      "restore": {
+          "success"   : "A(s) compra(s) - {documento}, restaurado(s) com sucesso."
+      }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "general_exists"      : "{name} não encontrado(a).",
+  "general_204"         : "O servidor processou a solicitação com sucesso, mas não está retornando nenhum conteúdo.",
+    "general" : {
+        "exists"        : "{name} não encontrado(a)."
+    },
+
+    "actions" : {
+        "create" : {
+            "success"   : "{name} cadastrado(a) com sucesso.",
+            "error"     : "{name} não pode ser cadastrado(a)."
+        },
+        "update" : {
+            "success"   : "{name} atualizado(a) com sucesso.",
+            "error"     : "{name} não pode ser atualizado(a)."
+        },
+        "delete" : {
+            "success"   : "{name} removido(a) com sucesso.",
+            "error"     : "{name} não pôde ser removido(a).",
+            "warning"   : "Selecione ao menos um(a) {name} para ser removido(a)."
+        },
+        "restore" : {
+            "success"   : "{name} restaurado(a) com sucesso.",
+            "error"     : "{name} não pôde ser restaurado(a).",
+            "warning"   : "Selecione ao menos um(a) {name} para ser restaurado(a)."
+        },
+        "cancel" : {
+            "success"   : "{name} cancelado(a) com sucesso.",
+            "error"     : "{name} não pôde ser cancelado(a)."
+        }
+    }
+}
